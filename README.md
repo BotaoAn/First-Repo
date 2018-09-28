@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Business Keys VS. Surrogate keys
 
 ## Conclusion
@@ -28,21 +27,4 @@ Do not use business keys as dimension primary keys. Use data warehouse surrogate
 - Enforce Referential Integrity Efficiently
 
 
-__Note:__
-Surrogate keys should be hidden from stakeholders wherever possible. BI tools use them as the mechanical way of joining facts and dimensions only. Surrogate keys are never to be used for sorting, grouping, or filtering data.
-=======
-
-```
-This is a just test for readme.md
-
-test2
-
-test3
-test4
-test 5
-
-test 6
-
-test 7
-```
->>>>>>> eb3dd48632bd7274a467effbe727f36b005615eb
+__Note:__ Surrogate keys should be hidden from stakeholders wherever possible. BI tools use them as the mechanical way of joining facts and dimensions only. Surrogate keys are never to be used for sorting, grouping, or filtering data.
